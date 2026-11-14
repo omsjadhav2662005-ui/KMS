@@ -42,7 +42,7 @@ Copy `.env.example` to `.env` and add your Atlas connection string:
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://USERNAME:PASSWORD@CLUSTER.mongodb.net/abg_knowledge_hub?retryWrites=true&w=majority
+MONGODB_URI=MongoDB url
 CLIENT_URL=http://localhost:5173
 ```
 
